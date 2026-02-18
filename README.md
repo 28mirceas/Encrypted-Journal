@@ -8,7 +8,7 @@
 ---
 
 ## Download Demo
-[Download Encrypted Journal DEMO Setup](EncryptedJournal_DEMO_Setup.exe)
+[Download Encrypted Journal DEMO Setup]([EncryptedJournal_DEMO_Setup.exe](https://github.com/28mirceas/Encrypted-Journal/blob/main/EncryptedJournal_DEMO_Setup.exe))
 
 ---
 
