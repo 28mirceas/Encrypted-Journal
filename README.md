@@ -1,64 +1,88 @@
-# BDD Project – OrangeHRM Automation Testing
+# Encrypted Journal — DEMO
 
 ## Project Description
-This project represents a **BDD (Behavior Driven Development)** automated test suite for the **OrangeHRM** web application, using **Python, Behave, and Selenium WebDriver**.
+**Encrypted Journal (DEMO)** is a secure, offline journaling app. Explore the interface, try encrypted journaling, and test features before getting the full version.
 
-The purpose of this project is to validate the main functionalities of the OrangeHRM application, such as:
-- user authentication
-- employee management (add, search, edit)
-- dashboard functionality verification
-
-The tested application is the OrangeHRM demo version:  
-https://opensource-demo.orangehrmlive.com
+**Note:** All data is encrypted locally. DEMO has intentional limitations.
 
 ---
 
-## Test Types
-- ✅ Automated functional tests
-- ✅ BDD tests (Gherkin – Given / When / Then)
-- ❌ Negative tests (login with invalid credentials)
+## Quick Start
+1. Download and run `Demo-Setup.exe`
+2. Enter **EJ-DEMO-2026** as the activation code
+3. Create your demo journal file (max 100 characters)
+4. Save it securely
+5. Reopen once to edit
+
+**Note:** After the second save, the file becomes read-only.
 
 ---
 
-## Technologies Used
-- **Python**
-- **Behave**
-- **Selenium WebDriver**
-- **Page Object Model (POM)**
-- **Gherkin**
-- **ChromeDriver**
+## Key Features (DEMO)
+- Encrypted text editor (single demo file)
+- Password-protected journal
+- Live Markdown preview and formatting
+- Auto-lock after 5 minutes of inactivity
+- Manual lock (`Ctrl + L`)
+- Controlled save/edit limitations
+- Secure local encryption (passwords never stored)
 
 ---
 
-## Project Structure
+## DEMO Restrictions
 ```
-BDD-Project-OrangeHRM/
-├── features/
-│   ├── login.feature
-│   ├── dashboard.feature
-│
-│── steps/
-│       ├── login_steps.py
-│       └── dashboard_steps.py
-├── pages/
-│   ├── base_page.py
-│   ├── login_page.py
-│   └── dashboard_page.py
-├── browser.py
-├── environment.py
-├── requirements.txt
-└── README.md
+- **One demo file** only
+- Max **100 characters**
+- File editable **once after initial save**
+- PDF export is disabled
+- Cannot open other encrypted files
 ```
 
 
 ---
 
-## Test Execution
-```bash
-behave
+## Keyboard Shortcuts
+```
+| Shortcut | Action |
+|----------|--------|
+| Ctrl + N | New demo file |
+| Ctrl + B | Bold |
+| Ctrl + I | Italic |
+| Ctrl + S | Save (limited) |
+| Ctrl + O | Open demo file |
+| Ctrl + Z | Undo |
+| Ctrl + L | Lock Now |
 ```
 
 ---
 
+## FAQ
+```
+**What if I exceed 100 characters?**  
+Typing is blocked at 100 characters.
+
+**Can I create multiple files?**  
+No. Only one demo file allowed.
+
+**Can I edit the file multiple times?**  
+No. Only once after initial save.
+
+**Can I export PDFs?**  
+No. PDF export is disabled in DEMO.
+
+**Why does the editor auto-lock?**  
+Auto-lock protects your journal if left unattended.
+```
+
+---
+
+## License & Activation
+```
+- Activation code for DEMO: **EJ-DEMO-2026**
+- Passwords are **never stored**
+- Lost passwords cannot be recovered
+```
+
+---
 ## Author
-Project created for educational purposes
+For questions, contact: [mir.sava@gmail.com](mailto:mir.sava@gmail.com)
