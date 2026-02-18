@@ -8,7 +8,7 @@
 ---
 
 ## Download Demo
-[Download Encrypted Journal DEMO Setup](Encrypted-Journal/EncryptedJournal_DEMO_Setup.exe)
+[Download Encrypted Journal DEMO Setup](EncryptedJournal_DEMO_Setup.exe)
 
 ---
 
