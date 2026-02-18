@@ -15,7 +15,7 @@
 ---
 
 ## Quick Start
-1. Download and run `Demo-Setup.exe`
+1. Download and run `EncryptedJournal_DEMO_Setup.exe`
 2. Enter **EJ-DEMO-2026** as the activation code
 3. Create your demo journal file (max 100 characters)
 4. Save it securely
