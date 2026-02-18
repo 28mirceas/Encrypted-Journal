@@ -7,6 +7,11 @@
 
 ---
 
+## Download Demo
+[Download Encrypted Journal DEMO Setup](Encrypted-Journal/EncryptedJournal_DEMO_Setup.exe)
+
+---
+
 ## Quick Start
 1. Download and run `Demo-Setup.exe`
 2. Enter **EJ-DEMO-2026** as the activation code
